@@ -2,7 +2,7 @@
 
 ## What is C-Patterns
 - C patterns is my repo for patterns made with C-language. They are,
-  - Full pyramid od star
+  - Full pyramid of star
   - Full pyramid of Numbers
   - Half pyramid of alphabet
   - Half pyramid of numbers
